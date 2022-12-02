@@ -1,6 +1,6 @@
 // **********************************************************************************
 // Title: TicTacToe Game
-// Author: Vivek Vashishat, Vijay Vashishat, and Luciano Tamanaha
+// Author: Vivek Vashishat
 // Course Section: CMIS201-ONL1 (Seidel) Fall 2022
 // File: TicTacToe.java
 // Description: The users of this software will be those that want to play a simple game of Tic-Tac-Toe.
