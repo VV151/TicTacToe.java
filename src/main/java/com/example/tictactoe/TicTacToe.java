@@ -154,6 +154,7 @@ public class TicTacToe extends Application {
 
     // Launches the program.
     public static void main(String[] args) {
+        Help.about();
         launch(args);
     }
 }
